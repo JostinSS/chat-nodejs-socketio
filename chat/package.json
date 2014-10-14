@@ -1,0 +1,9 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "My fist chat client",
+  "dependencies": {
+    "express": "^4.9.7",
+    "socket.io": "^1.1.0"
+  }
+}
